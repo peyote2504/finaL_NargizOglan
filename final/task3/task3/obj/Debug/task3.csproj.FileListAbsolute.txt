@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\bin\Debug\task3.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\bin\Debug\task3.exe
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\bin\Debug\task3.pdb
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\obj\Debug\task3.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\obj\Debug\task3.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\obj\Debug\task3.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\obj\Debug\task3.exe
+c:\users\asus\documents\visual studio 2017\Projects\task3\task3\obj\Debug\task3.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\task3\task3\obj\Debug\task3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2017\Projects\4\4\bin\Debug\4.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\4\4\bin\Debug\4.exe
+c:\users\asus\documents\visual studio 2017\Projects\4\4\bin\Debug\4.pdb
+c:\users\asus\documents\visual studio 2017\Projects\4\4\obj\Debug\_4.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\4\4\obj\Debug\_4.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\4\4\obj\Debug\4.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\4\4\obj\Debug\4.exe
+c:\users\asus\documents\visual studio 2017\Projects\4\4\obj\Debug\4.pdb
+c:\users\asus\documents\visual studio 2017\Projects\4\4\obj\Debug\4.csprojResolveAssemblyReference.cache
